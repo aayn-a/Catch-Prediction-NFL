@@ -28,18 +28,11 @@ This project aims to predict whether a pass will be completed in an NFL game usi
 
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
+   source venv/bin/activate  
+    ``` 
 
 3. Install the required packages:
    ```bash
    pip install -r requirements.txt
    ```
 
-## Usage
-
-To run the notebook, execute the following command:
-
-```bash
-jupyter notebook [notebook.ipynb](http://_vscodecontentref_/0)
-```
